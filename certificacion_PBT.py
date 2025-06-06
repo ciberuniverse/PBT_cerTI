@@ -1,7 +1,5 @@
 import certi
 
-certi.FILE_CODE = "certificacion_PBT.py"
-
 lista_acendente = []
 cantidad_de_vocales = 0
 
